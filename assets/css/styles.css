@@ -192,7 +192,7 @@ img{
 }
 
 /*===== HOME =====*/
-.home__container{
+.inicio__container{
   height: calc(100vh - var(--header-height));
   align-items: center;
 }
@@ -329,7 +329,49 @@ img{
 }
 
 /* ===== SKILLS =====*/
+.habilidades__container{
+  row-gap: 2rem;
+}
 
+.habilidades__subtitle{
+  font-size: var(--h3-font-size);
+  color: var(--first-color-dark);
+  margin-bottom: var(--mb-2);
+}
+
+.habilidades__data{
+  position: relative;
+  display: flex;
+  justify-content: space-between;
+  margin: 0 var(--mb-2);
+  margin-bottom: var(--mb-4);
+}
+
+.habilidades__nombre{
+  text-transform: uppercase;
+}
+
+.habilidades__barra{
+  position: absolute;
+  bottom: -.75rem;
+  height: .25rem;
+  background-color: var(--first-color);
+}
+.habilidades__html{
+  width: 80%;
+}
+
+.habilidades__js{
+  width: 90%;
+}
+
+.habilidades__react{
+  width: 70%;
+}
+
+.habilidades__angular{
+  width:60%
+}
 
 /* ===== EDUCATION =====*/
 
