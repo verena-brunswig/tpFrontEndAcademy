@@ -3,7 +3,7 @@
 ### Curriculum Vitae completo
 
 - Curriculum Vitae completo usando HTML CSS & JavaScript
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Compatible con todos los dispositivos móviles y con una hermosa y agradable interfaz de usuario.
 
 
 
